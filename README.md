@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdurrahman Alptekin</h1>
+<h2 align="center">👋 Backend Developer | Java Enthusiast | Constantly Improving 🚀 </h2>
+
 <h3 align="center">A curious and creative engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalptekins&label=Profile%20views&color=0e75b6&style=flat" alt="aalptekins" /> </p>
